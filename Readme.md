@@ -14,7 +14,7 @@ CSV File Location – Path to save the resulting CSV file after scraping the dat
 ## Procedure:
 ### Create a New Process in UiPath Studio:
 
-Launch UiPath Studio and click on Process under the New Project tab.<br>
+Launch UiPath Studio and cick on Process under the New Project tab.<br>
 Name the project (e.g., Scrape Web Data to CSV) and click Create.<br>
 This will set up a new workspace for the automation workflow.<br>
 ### Install Browser Extension (if needed):
